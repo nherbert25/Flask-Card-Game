@@ -1,0 +1,5 @@
+#run the following to create a requirements file by scanning the repository! (might want to copy this out first, not sure if it overwrites this file
+#pipreqs C:\Users\Nate\Documents\GitHub\Flask-Card-Game
+
+#this will download all the requirements
+#pip install -r requirements.txt
